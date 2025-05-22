@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-jose[cryptography]
+bcrypt
+pyotp
+cryptography
+mysql-connector-python
+psycopg2-binary
