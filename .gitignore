@@ -1,1 +1,5 @@
 /.idea
+/backend/__pycache__
+/backend/__pycache__
+backend/encryption_key.key
+backend/__pycache__/main.cpython-313.pyc
